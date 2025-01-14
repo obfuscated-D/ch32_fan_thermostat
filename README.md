@@ -16,7 +16,7 @@ This is just a personal project but if you find any of the code useful, you're f
 I won't be providing any support for this code, but feel free to ask questions.
 
 ## Setup
-See the [Installattion guide](https://github.com/cnlohr/ch32v003fun/wiki/Installation) for the ch32v003fun project, you will need the toolchain to flash the code to the ch32v003 board.
+See the [Installation guide](https://github.com/cnlohr/ch32v003fun/wiki/Installation) for the ch32v003fun project, you will need the toolchain to flash the code to the ch32v003 board.
 
 
 ## Flashing
@@ -42,3 +42,7 @@ TEMP SENSORs:
     MISO -> PC7
     CS sensor1 -> PD0
     
+FANS:
+
+    FAN1 -> PD1
+    FAN2 -> PD2
