@@ -31,6 +31,8 @@
 * USE OR OTHER DEALINGS IN THE SOFTWARE.
 ******************************************************************************/
 #include "lib_i2c.h"
+#include "ch32v003fun.h"
+#include "funconfig.h"
 #include <stddef.h>
 
 /*** Static Functions ********************************************************/
